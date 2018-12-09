@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# **My design manifesto**
+### by Yang Gao
 
-You can use the [editor on GitHub](https://github.com/gyang2518/Welcome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## **Introduction**
+Before we ready to code or finish up a project, we need first to plan out what we should do for that project. Taking this Human Computer Interaction course as an example, every projectwe designed for the course were trying to benefit the users that we will have. Oftentimes engineers will spend months developing technically-sound projects that have little to no purpose in the real world. An excellent software development team will spend months designing a project before even beginning the implementation process. Every single project needs a concrete definition of a worthwhile and evident problem it seeks to solve.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Within learning the Human Computer Interaction for a whole term, it teached me on designing the softwares or projects that I will do. During the designing, five sheets for designing was a useful tool for the process. It presented the group's idea from brainstorming to the final decision and finishing up the developing. By listing out every thoughts on the paper, it's more visiualize for the group and can think into different branches or in a depth way. Plus, the designing process also is a time for the group to check the correctness for the project, and the consistency.
 
-### Markdown
+## **Brainstorm and identify the goal**
+Everytime when we recieved a topic to design for, the first thing we did was start to brainstorm. Normally, this was the most fun and timecomsuming part for the whole project. During this time period, people threw all the ideas and thought on different topics, and normally teammates picked the topic, that had most thoughts on that as the goal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Taking the design for understanding as an example, we picked food as our dataset from 30 different kinds of dataset that's been provided from CORGIS. In the food data there were more than 4000 datas that contains majority nutirients and components in each kind of food, we need to plot three graphs to illustrate the data in the dataset that we chose.
 
-```markdown
-Syntax highlighted code block
+![Image of UD](https://cdn-images-1.medium.com/max/800/1*A9Zb_7r-TCX51MXothMd2w.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
+We can't contain everything in our project. We finally decided the goal of these graphs was trying to illustrate which meat, fruit or cereals that people should choose during workout or on a diet or for the people who wants to keep healthy.
 
-- Bulleted
-- List
+Another example would be the project - design for wellbeing. During the brainstorming, we use emotion wellbeing from Affectiva Library to benefit the consumer or the audience. We imported a live chart of how many emotions we had on watching different videos became the most favorite topic that our group had. In the graph, it will illustrate user's emotion at certain time.
 
-1. Numbered
-2. List
+## **Initial Design**
+Although the goal was determined, the designing process just started. There were lots of possible solutions for same goal. Every solutions are all fit for the goal, however, we should figure out the solution that's not too simple or comprehensive. It's important if we can leave the topic to an open and optional paths. 
 
-**Bold** and _Italic_ and `Code` text
+In the designing for Tension, our group suppose to design a chat bot for the users who don't know a lot about Artificial Intellegence. For each categories, we thought about the keywords or main concerns that users might have about AI. For different concerns, it will lead to different specific questions about whether this is the concerns, and then link to a specific article that's actually talk about this topic. We had this basic flow chart and tested it with different peoples to ask about what there concerns. For each categories, we can then think which articles and possible answers to fulfill the chat bot.
 
-[Link](url) and ![Image](src)
-```
+![Image of TE](https://cdn-images-1.medium.com/max/800/1*E6T4CQTnnFwu0XOtWxZfmQ.jpeg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## **Final Design**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gyang2518/Welcome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
