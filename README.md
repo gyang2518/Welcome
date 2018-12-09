@@ -28,4 +28,5 @@ Another example would be [Design for Another World](https://medium.com/@gyang251
 
 
 ## **Final Design**
+Although we have a big picture of the project on the paper, the real design time is now coming. During the process, teamates might already throw away two or three potential final designs. No matter how complicate or straightforward the final solution would be, it contains the all the great thoughts from the team, that must be the best for the team. The "best" also really depends on the group and the project. Some of the team might have good thoughts or structure at the initial design stage; however, the limitation on the ability and time would be the biggest barrels. On [designing for wellbeing](https://medium.com/@gyang2518/design-documentation-for-wellbeing-a1553f764596), our group originally had thoughts on beautify the webpage, make the emoji appear on the graph, and make the live chart and the video start at the same time. However, within the limitation on coding ability for our group, we didn't achieve the goal that our group designed.
 
