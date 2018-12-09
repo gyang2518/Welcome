@@ -11,7 +11,7 @@ Everytime when we recieved a topic to design for, the first thing we did was sta
 
 Taking the design for understanding as an example, we picked food as our dataset from 30 different kinds of dataset that's been provided from CORGIS. In the food data there were more than 4000 datas that contains majority nutirients and components in each kind of food, we need to plot three graphs to illustrate the data in the dataset that we chose.
 
-![Image of UD](https://cdn-images-1.medium.com/max/800/1*A9Zb_7r-TCX51MXothMd2w.jpeg)
+![Image of UD](https://cdn-images-1.medium.com/max/800/1*A9Zb_7r-TCX51MXothMd2w.jpeg){weight:100}
 
 We can't contain everything in our project. We finally decided the goal of these graphs was trying to illustrate which meat, fruit or cereals that people should choose during workout or on a diet or for the people who wants to keep healthy.
 
