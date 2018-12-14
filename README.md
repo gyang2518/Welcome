@@ -24,7 +24,7 @@ In the [designing for Tension](https://medium.com/@gyang2518/design-documentatio
 
 ![Image of TE](https://cdn-images-1.medium.com/max/800/1*E6T4CQTnnFwu0XOtWxZfmQ.jpeg)
 
-Another example would be [Design for Another World](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e), our group decided to do something that can ease the user or make them relax while seeing the Virtual Reality Page. As we all know, there are so many different ways about relaxing. Thus, we though green page can make people relax their eyes. A farm would be a great choice. Within this thought, our group designed a farm with moving animals in it. For this case, there are lots of ways for desiging on relaxation; there are hundreds way of designing on farm. It's our group's responsibility to choose the best solution for the project.
+Another example would be [Design for Another World](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e), our group decided to do something that can ease the user or make them relax while seeing the Virtual Reality Page in the beginning. However, with later on designing it turned out to be a creepy farm. It's a good start. As we all know, there are so many different ways about relaxing. Thus, we though green page can make people relax their eyes. A farm would be a great choice. Within this thought, our group designed a farm with moving animals in it. For this case, there are lots of ways for desiging on relaxation; there are hundreds way of designing on farm. It's our group's responsibility to choose the best solution for the project. This actually can be a perfect example about initial design, because during the designing, more ideas poped out from everyone's mind, and more creations we would have in the final production.
 
 
 ## **Final Design**
@@ -65,4 +65,4 @@ Designing for wellbeing, we would like to create a website that would help the c
 
 [Design for Another World](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e)
 
-On the last project for the class, we choose to let people from our class to relax. In the 3D classes, we people can see the farm that has cows and sheeps in it. People can feed the cow and sheep. They also can find the egg in the farm, crack it and then they will get a chicken.
+On the last project for the class, we choose to let people from our class to relax. In the 3D classes, people can see the farm that has cows and sheeps in it. We made the cow moving everywhere in the farm. There were two group of goats fighiting each other. Plus, five eggs and only one of it can get a chicken. Good luck on that!
